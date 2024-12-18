@@ -1,0 +1,12 @@
+table{
+    border-collapse: collapse;
+    width:10000px;
+    height: 50px;
+}
+table,tr,td{
+    border : 5px pink dashed;
+}
+td{text-align: right;
+    vertical-align: bottom;
+    height: 100px;
+}

@@ -1,0 +1,9 @@
+table{
+    border-collapse: collapse;
+}
+table,tr, td{
+    border: 1px blue solid;
+}
+tr:hover{
+    background-color: red;
+}

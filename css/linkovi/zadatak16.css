@@ -1,0 +1,9 @@
+a:link{
+    color: blue;
+}
+a:visited{
+}
+a:hover{
+    color: transparent;
+}
+a:active{}
