@@ -1,0 +1,22 @@
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: relative;
+    left: 220px;
+
+}
+.div3{
+    height: 70px;
+    width: 420px;
+    background-color: aqua;
+    position: relative;
+    top: 20px;
+    clear: both;
+}
