@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+ol{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+.img2{
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+.image3{
+    width: 250px;
+    height: 250px;
+}
