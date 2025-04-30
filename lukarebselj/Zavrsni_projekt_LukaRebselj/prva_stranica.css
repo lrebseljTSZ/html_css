@@ -1,0 +1,17 @@
+ol{ display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    align-content: space-between;
+}
+li{ display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-style: revert;
+    font-size: 20px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
