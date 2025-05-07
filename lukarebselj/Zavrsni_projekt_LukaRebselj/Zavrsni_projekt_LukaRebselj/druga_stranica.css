@@ -1,0 +1,30 @@
+.h1-1{
+    font-family: Verdana;
+    color: blue;}
+.h2-1{
+    font-family: Verdana;
+    color: blue;}
+.h2-2{
+    font-family: Verdana, sans-serif;
+    color: blue;}
+.h2-3{
+    font-family: Verdana, sans-serif;
+    color: blue;
+    float: left}
+.p-1{
+    font-family: Verdana, sans-serif;}
+.p-1-2{
+    font-family: Verdana, sans-serif;}
+.img1{float: left;}
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.body1 {
+    background-color: lightblue;
+}
+.body2 {
+    background-image: url("slike/Maksimir.jpg");
+    background-repeat: no-repeat;
+}
