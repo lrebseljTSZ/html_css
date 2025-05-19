@@ -1,0 +1,31 @@
+ol{ display: flex;
+    list-style: none;
+    justify-content: center;
+    align-content: space-between;
+}
+li{ justify-content: center;
+    display: flex;
+    padding: 20px;
+    font-style: revert;
+    font-size: 20px;
+    color: white;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    color: darkblue;
+    transform: translateY(-3px);
+}
+footer{
+    background-color: blue;
+}
+

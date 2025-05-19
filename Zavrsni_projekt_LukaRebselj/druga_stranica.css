@@ -1,0 +1,58 @@
+ol{ display: flex;
+    list-style: none;
+    justify-content: center;
+    align-content: space-between;
+}
+li{ justify-content: center;
+    display: flex;
+    padding: 20px;
+    font-style: revert;
+    font-size: 20px;
+    color: white;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: blue;
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    background-color: blue;
+}
+
+.h1-1{
+    font-family: Verdana, sans-serif;
+    color: blue;}
+.h2-1{
+    font-family: Verdana, sans-serif;
+    color: blue;}
+.h2-2{
+    font-family: Verdana, sans-serif;
+    color: blue;}
+.h2-3{
+    font-family: Verdana, sans-serif;
+    color: blue;
+    float: left}
+.p-1{
+    font-family: Verdana, sans-serif;}
+.p-1-2{
+    font-family: Verdana, sans-serif;}
+.img1{float: left;}
+.section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.body1 {
+    background-color: blue;
+    color: white;
+}
+.body2 {
+    background-image: url("slike/maksimir1.jpg");
+}
+
